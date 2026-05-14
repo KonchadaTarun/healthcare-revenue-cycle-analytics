@@ -9,7 +9,7 @@ import seaborn as sns
 # 1. SETUP & CONFIGURATION
 # ==========================================
 DB_USER = "root"
-DB_PASSWORD = urllib.parse.quote_plus("Kusumahara@123")  
+DB_PASSWORD = urllib.parse.quote_plus("type_your_password")  
 DB_HOST = "localhost"
 DB_NAME = "healthcare_db"
 DB_TABLE = "healthcare_dataset"  
