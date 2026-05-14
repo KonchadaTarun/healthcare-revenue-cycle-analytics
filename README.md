@@ -26,7 +26,14 @@ Automated Reporting: Outputs six detailed text reports to the console and export
 
 - Visualizations -
 The pipeline automatically generates the following insights:
-
 Payer Performance: A bar chart comparing total revenue across different insurance providers.
-
 Operational Efficiency: A horizontal chart showing which medical conditions require the longest hospital stays.
+
+-Project Structure -
+healthcare_revenue_cycle_analytics
+├── main.py                          # Main Python script
+├── README.md                        # Project documentation
+├── healthcare_financial_dashboard
+
+- Business Impact -
+This tool replaces manual spreadsheet tracking. By automating the "Revenue at Risk" calculation, a hospital administrator can instantly see what percentage of the portfolio is tied up in high-value claims, allowing them to prioritize audits and improve cash flow.
